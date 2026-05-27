@@ -310,7 +310,7 @@ También incorpora herramientas de detección de voz generada por IA.
 
 ## Isai Reyes - FullStack Developer
 
-Creador principal de TorToiSe TTS.
+
 
 ---
 
