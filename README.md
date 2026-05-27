@@ -56,7 +56,7 @@ El proyecto combina Transformers autoregresivos y modelos de difusión para prod
 # 🏗️ Arquitectura
 
 ```bash
-tortoise-tts/
+SistemaVozText-to-Speech/
 │
 ├── tortoise/
 │   ├── api.py
@@ -101,8 +101,8 @@ tortoise-tts/
 ## 📥 Clonar repositorio
 
 ```bash
-git clone https://github.com/neonbjb/tortoise-tts.git
-cd tortoise-tts
+git clone https://github.com/isairey/SistemaVozText-to-Speech.git
+cd SistemaVozText-to-Speech
 ```
 
 ---
@@ -308,7 +308,7 @@ También incorpora herramientas de detección de voz generada por IA.
 
 # 👨‍💻 Autor
 
-## Brandon Blackwell (neonbjb)
+## Isai Reyes - FullStack Developer
 
 Creador principal de TorToiSe TTS.
 
@@ -343,14 +343,14 @@ Las contribuciones son bienvenidas.
 # 📜 Licencia
 
 ```text
-MIT License © TorToiSe TTS
+MIT License 
 ```
 
 ---
 
 <div align="center">
 
-## 🐢 TorToiSe TTS
+## 🐢 SistemaVozText-to-Speech
 
 ### Inteligencia artificial para síntesis de voz ultra realista 🎤
 
